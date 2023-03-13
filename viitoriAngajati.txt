@@ -1,0 +1,3 @@
+Cluj-Napoca,ajkjewhvrjhgv@yahoo.com,Lara,1234,Maria,1235463372,angajat,gkjb,09/07/2021,7 luni,4800,09/01/2023,
+Piatra-Neamt,lwknajgcewjbv@yahoo.com,Mara,1234,Daria,12425141546,angajat,mevrjl,05/03/2022,5 ani,4700,05/01/2023,
+Floresti,akvesldjrwljv@yahoo.com,Para,1234,Iris,1293523540,angajat,pevjb,15/08/2020,2 ani,5800,15/01/2023,
