@@ -1,6 +1,6 @@
 # Shoes-Store
 This was a teams project. We created a desktop application in Java. <br />
-This application can be used by 3 types of users: admin, client and employer. <br />
+This application can be used by 3 types of users: admin, client and employee. <br />
 ![s1](https://user-images.githubusercontent.com/92223201/224759344-9a88397b-a48a-4963-80d2-c9850b6e18a4.PNG) <br />
 This application allows clients to register. In order for the registration to be complete, the customer must enter the code from the received email. <br />
 The client is the only one who can register. The admin has to send credentials for employers in order for them to log in. <br />
@@ -21,7 +21,7 @@ Admnin operations: <br />
 -he cand add, modify or delete products; <br />
 -he has to notify when a product is back; <br />
 ![s7-COLLAGE](https://user-images.githubusercontent.com/92223201/224763610-6427dcb7-80df-48f7-a270-1d0f58d32123.jpg) <br />
-Employer operations: <br />
+Employee operations: <br />
 -he send notifications when a product is out of stock; <br />
 -he has to verify is the products from a order are available; <br />
 -he checks the reviews; <br />
